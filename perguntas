@@ -1,0 +1,9 @@
+
+Realizar essa modelagem e responder algumas perguntas
+com nosso modelo:
+1. Existem outras entidades além dessas?
+R: Não 
+2. Quais são os principais campos e tipos?
+R: Campo nome: tipo varchar, campo cnpj: tipo varchar, campo endereço: tipo varchar, campo id: tipo int. 
+3. Como essas entidades estão relacionadas?
+N x N 
