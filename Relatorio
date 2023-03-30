@@ -1,6 +1,0 @@
-Tabela: relatorios
-Campos:
-- id: int (chave primária, autoincremento)
-- nome_empresa: varchar(255)
-- tecnologias: text
-- data_pesquisa: date
